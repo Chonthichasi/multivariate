@@ -1,4 +1,4 @@
-# multivariate-
+# multivariate
 ### ชลธิชา ID 623020518-7
 .md => Markdown
 
